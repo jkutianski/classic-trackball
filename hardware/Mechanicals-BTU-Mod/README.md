@@ -31,6 +31,7 @@ The particular BTU this mod is designed for is the Bosch-Rexroth R053010810, or 
 * [L-System](https://l-system.nu/webshop/linear-technology/ball-transfer-units-and-tolerance-rings/ball-transfer-units/type-r0530/ball-transfer-unit-ku-b8-ofk/) - Sweden-based. Might allow private customers to buy.
 * [Spareparts](https://www.sp-spareparts.com/en/p/r053010810-bosch-rexroth) - Ireland-based. Ships to UK and maybe elsewhere. Does sell to private customers.
 * [Rodivago](https://rodavigo.net/es/p/bola-transportadora-con-carter-de-metal-laminado-ref-053010810/557053010810) - Spain-based. May require being a company.
+* [Bosch Rexroth Argentina](https://www.boschrexroth.com/es/ar/productos/grupo-de-productos/tecnologia-de-movimiento-lineal/bolas-transportadoras/bolas-transportadoras/r0530-con-carcasa-de-chapa-de-acero/r0530-1-con-carcasa-de-chapa-de-acero?p=p836645&cat=Linear-Motion-Technology-Catalog&pi=F66D37E7-0C8C-F5E4-9B012FFF45888964_ICS_97&sapCat=LT&o=portal) - Argentina Bosch-Rexroth office
 * For other sources, try Bosch-Rexroth's [contact locator tool](https://addresses.boschrexroth.com/) - find a distributor near you, and search for the bearing part number on their website.
 
 ## Printing
